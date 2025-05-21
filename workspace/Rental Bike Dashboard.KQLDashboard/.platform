@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "KQLDashboard",
+    "displayName": "Rental Bike Dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "daa4b832-39a2-8289-4eb2-0535460d1a9c"
+  }
+}

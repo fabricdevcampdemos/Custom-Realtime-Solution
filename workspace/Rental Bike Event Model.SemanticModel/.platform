@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Rental Bike Event Model"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3c71c0dd-dd5b-99c7-4f3f-b0bb479e8bbb"
+  }
+}

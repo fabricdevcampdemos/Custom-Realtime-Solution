@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Eventhouse",
+    "displayName": "Rental Bikes"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "47a86fc3-5b2b-bf76-44cf-b06cf53740d3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "KQLDatabase",
+    "displayName": "Rental Bike Events"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3109b641-cd1a-9006-48ba-04c3ffe063ed"
+  }
+}

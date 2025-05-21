@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Rental Bike Locations Report"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "b026c3d2-599c-bc64-4250-5860c7a1d4da"
+  }
+}
